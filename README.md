@@ -7,5 +7,5 @@
 --BeautifulSoup
 --requests
 --geopandas
---matplotlib.pyplot
+--matplotlib
 
