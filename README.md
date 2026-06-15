@@ -6,12 +6,14 @@ Data - папка с данными
 
 Ноутбуки--библиотеки:
 
-## Figure skating.ipynb -- парсинг статистики выступлений по фигурному катанию
+## Figure skating.ipynb 
+-- парсинг статистики выступлений по фигурному катанию
 --BeautifulSoup
 --requests
 --geopandas
 --matplotlib
-## Parsing.ipynb - парсинг кинопоиска
+## Parsing.ipynb 
+-- парсинг кинопоиска
 -- json
 -- requests
 -- datetime
